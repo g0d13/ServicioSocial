@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 504935bed0a9bf2afc55c6680b8a0dbcf18c6374 Juan Diego Parra Mendez <g0d13@hdie60.(none)> 1624720889 -0500	clone: from git@github.com:g0d13/Servicio.git
+504935bed0a9bf2afc55c6680b8a0dbcf18c6374 250c9801b623a9dad3c551b3a759d1c9aefb1b8f Juan Diego Parra Mendez <g0d13@hdie60.(none)> 1624728730 -0500	pull --no-stat -v --progress origin main: Fast-forward
+250c9801b623a9dad3c551b3a759d1c9aefb1b8f 4a98909d0521b27421a803b80e6095b4f1637f2e g0d13 <g0d13@outlook.com> 1624729267 -0500	commit: Reparar avatar
+4a98909d0521b27421a803b80e6095b4f1637f2e 91a33569c24864337c6b62d15bb7999576be6313 g0d13 <g0d13@outlook.com> 1624732377 -0500	commit: Cambios menores en la interfaz
+91a33569c24864337c6b62d15bb7999576be6313 cfdaf05eebd04969ec9510e8477c5fada39d872c g0d13 <g0d13@outlook.com> 1624732562 -0500	commit: Eliminar span debajo de las tarjetas de inicio
+cfdaf05eebd04969ec9510e8477c5fada39d872c c93a1fad792dd36534eb125f38f4bb41801545fc g0d13 <g0d13@outlook.com> 1624733999 -0500	commit: Reparar error perron
+c93a1fad792dd36534eb125f38f4bb41801545fc 49dfe5bea2bb4f56255a813fbbed4047a29ae27e g0d13 <g0d13@outlook.com> 1624734019 -0500	merge origin/main: Merge made by the 'recursive' strategy.
+49dfe5bea2bb4f56255a813fbbed4047a29ae27e 0bae3a9c89ea4ffcca6e8bd0a3a6f6ef86a9b743 g0d13 <g0d13@outlook.com> 1624735074 -0500	commit: Actualizar login
+0bae3a9c89ea4ffcca6e8bd0a3a6f6ef86a9b743 451d84903e36e444bcf6564ea1783e7a783f76fc g0d13 <g0d13@outlook.com> 1624799972 -0500	merge origin/main: Fast-forward
+451d84903e36e444bcf6564ea1783e7a783f76fc ba89997a9873fa4e650203365d3a8c664a051511 g0d13 <g0d13@outlook.com> 1624893437 -0500	commit: Eliminar codigo innecesario del login
+ba89997a9873fa4e650203365d3a8c664a051511 0f0fcfe7776da95a47d0a373841861af776c4022 g0d13 <g0d13@outlook.com> 1624896155 -0500	commit: Cambiar relacion planta usuario
+0f0fcfe7776da95a47d0a373841861af776c4022 793a680cfd9b179e74b4f8f4e63a462f91ca8d7f g0d13 <g0d13@outlook.com> 1624900109 -0500	pull --no-stat -v --progress origin main: Fast-forward
+793a680cfd9b179e74b4f8f4e63a462f91ca8d7f ac3f4e1a831a09efff610974d4adb474378d0bd3 Juan Diego Parra  Mendez <g0d13@outlook.com> 1625520021 -0500	commit: Agregar detalles de instalacion
